@@ -4,8 +4,8 @@ The purpose of this project is to code a small data exchange program using UNIX 
 # to build
 > make
 
-Open two window terminal
+# Open two window terminal
 # to run
 > ./server
-Take number from server and rewrite to client
+# Take number from server and rewrite to client
 > ./client
